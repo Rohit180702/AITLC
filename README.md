@@ -58,7 +58,7 @@ $ git clone https://github.com/Gururagavendra/traffic-management-using-AI-ML.git
 
 - Gururagavendra (@gururagavendra)
 - Baranidharan G (@baranidharan-g23)
-- Rohit Biswal
+- Rohit Biswal   (@Rohit180702)
 
 ## Contributing
 
