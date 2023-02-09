@@ -49,9 +49,14 @@ $ git clone https://github.com/Gururagavendra/traffic-management-using-AI-ML.git
 
 ## Demo Video
 <a href="https://youtu.be/Wk3GxuGkH8k">
-  <img src="https://youtu.be/Wk3GxuGkH8k" alt="Demo Video">
+  <img src="https://www.aiplusinfo.com/wp-content/uploads/2022/03/AI-in-Traffic-Management-.jpg" alt="Demo Video">
 </a>
 
+##Creators
+
+- Gururagavendra (@gururagavendra)
+- Baranidharan G (@baranidharan-g23)
+- Rohit Biswal
 
 ## Contributing
 
