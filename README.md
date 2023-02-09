@@ -7,6 +7,8 @@ This project is designed to help manage traffic in large cities and make the roa
 
 Traffic congestion is a major problem in many cities around the world. It not only causes long commute times and frustration for drivers, but also leads to air pollution and wasted fuel. This project aims to address these problems by using AI/ML to detect high traffic density, traffic violations, predict traffic patterns, and provide route suggestions.
 
+>>The detailed project explanation and solution you can find it under media folder Team17.pptx (ppt file)
+
 ![Roadmap/Overview](https://github.com/Gururagavendra/AlphaCoders/blob/main/media/Block%20Diagram.png)
 
 ## Key Features
