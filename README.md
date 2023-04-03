@@ -1,4 +1,3 @@
-# AlphaCoders
 # Traffic Management System
 
 This project is designed to help manage traffic in large cities and make the roads safer for everyone. It uses artificial intelligence and machine learning algorithms to detect high traffic density, traffic violations, predict traffic patterns, and provide route suggestions. The project also includes ambulance detection and e-challan generation to make the roads safer for emergency vehicles.
